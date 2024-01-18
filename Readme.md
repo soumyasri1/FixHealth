@@ -34,28 +34,28 @@ Before you begin, ensure you have the following software installed on your machi
 # Usage
   npm start
 # Folder structure
-  `fixhealth/
-  ├── public/
-  │   ├── index.html
-  │   └── ...
-  ├── src/
-  │   ├── components/
-  │   │   ├── Home.js
-  │   │   ├── Navbar.js
-  │   │   ├── Doctor.js
-  │   │   ├── DoctorCard.js
-  │   │   ├── Testimonial.js
-  │   │   ├── CustomReviews.js
-  │   │   ├── ConsultationForm.js
-  │   │   ├── HeroImage.js
-  │   │   └── ...
-  │   ├── App.js
-  │   ├── index.js
-  │   └── ...
-  ├── .gitignore
-  ├── package.json
-  ├── README.md
-  └── ...`
+  fixhealth/
+|-- public/
+| |-- index.html
+| +-- ...
+|-- src/
+| |-- components/
+| | |-- Home.js
+| | |-- Navbar.js
+| | |-- Doctor.js
+| | |-- DoctorCard.js
+| | |-- Testimonial.js
+| | |-- CustomReviews.js
+| | |-- ConsultationForm.js
+| | |-- HeroImage.js
+| | +-- ...
+| |-- App.js
+| |-- index.js
+| +-- ...
+|-- .gitignore
+|-- package.json
+|-- README.md
++-- ...
 ## Components
 
 ### Home Component
