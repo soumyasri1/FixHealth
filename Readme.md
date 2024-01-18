@@ -34,7 +34,7 @@ Before you begin, ensure you have the following software installed on your machi
 # Usage
   npm start
 # Folder structure
-  fixhealth-react/
+  `fixhealth/
   ├── public/
   │   ├── index.html
   │   └── ...
@@ -55,7 +55,7 @@ Before you begin, ensure you have the following software installed on your machi
   ├── .gitignore
   ├── package.json
   ├── README.md
-  └── ...
+  └── ...`
 ## Components
 
 ### Home Component
